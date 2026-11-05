@@ -1,10 +1,19 @@
 {
   "name": "aisles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Is it in stock nearby? Store-level stock, prices and check times at grocery stores and malls in covered US cities, through the Aisles MCP server and skill. Read-only, no key.",
-  "author": { "name": "Aisles Inc.", "url": "https://aislesinventory.com" },
+  "author": {
+    "name": "Aisles Inc.",
+    "url": "https://aislesinventory.com"
+  },
   "homepage": "https://aislesinventory.com/developers",
-  "repository": "https://github.com/aburow1/aisles",
+  "repository": "https://github.com/aislesinventory/aisles",
   "license": "MIT",
-  "keywords": ["aisles", "local-inventory", "in-stock", "shopping", "mcp"]
+  "keywords": [
+    "aisles",
+    "local-inventory",
+    "in-stock",
+    "shopping",
+    "mcp"
+  ]
 }

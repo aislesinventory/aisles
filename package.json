@@ -1,6 +1,6 @@
 {
   "name": "aisles-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Aisles: is a product in stock at stores near a US city or ZIP, with the store, price and the time Aisles checked. Read-only, no key. Also a CLI (aisles) and a small JavaScript client.",
   "homepage": "https://aislesinventory.com",
   "license": "MIT",
@@ -38,10 +38,10 @@
   },
   "mcpName": "com.aislesinventory/aisles",
   "bugs": {
-    "url": "https://github.com/aburow1/aisles/issues"
+    "url": "https://github.com/aislesinventory/aisles/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aburow1/aisles.git"
+    "url": "git+https://github.com/aislesinventory/aisles.git"
   }
 }

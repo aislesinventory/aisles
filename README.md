@@ -52,7 +52,7 @@ Methods: `search(params)`, `ask(question)`, `locations(filter?)`, `answers(city)
 ## Agent skill
 
 ```
-npx skills add aburow1/aisles
+npx skills add aislesinventory/aisles
 ```
 
 ## Using the data
