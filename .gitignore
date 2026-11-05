@@ -7,3 +7,5 @@ node_modules/
 .npmrc
 .agents/
 skills-lock.json
+python/dist/
+python/*.egg-info/
