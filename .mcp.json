@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "aisles": { "type": "http", "url": "https://aislesinventory.com/mcp" }
+  }
+}
