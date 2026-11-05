@@ -8,7 +8,7 @@ This repository holds the public ways to use it. All of them are read-only, free
 |---|---|
 | MCP server (remote) | `https://aislesinventory.com/mcp` (Streamable HTTP); official MCP Registry: `com.aislesinventory/aisles` |
 | MCP server (local, stdio), CLI and JavaScript client | npm: [`aisles-mcp`](https://www.npmjs.com/package/aisles-mcp) (this repository's root) |
-| Agent skills | [`aisles-local-stock`](skills/aisles-local-stock/SKILL.md), [`aisles-mall-stores`](skills/aisles-mall-stores/SKILL.md), [`aisles-grocery-pickup`](skills/aisles-grocery-pickup/SKILL.md), [`aisles-price-compare`](skills/aisles-price-compare/SKILL.md) |
+| Agent skills | [`aisles-local-stock`](skills/aisles-local-stock/SKILL.md), [`aisles-mall-stores`](skills/aisles-mall-stores/SKILL.md), [`aisles-grocery-pickup`](skills/aisles-grocery-pickup/SKILL.md), [`aisles-price-compare`](skills/aisles-price-compare/SKILL.md), [`aisles-store-inventory`](skills/aisles-store-inventory/SKILL.md) |
 | Go client | [`go/`](go/): `go get github.com/aislesinventory/aisles/go` |
 | Python client | [`python/`](python/): `pip install aisles-client` |
 | Agent plugin | [`.claude-plugin/plugin.json`](.claude-plugin/plugin.json) with [`.mcp.json`](.mcp.json) |
